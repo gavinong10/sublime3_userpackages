@@ -1,4 +1,12 @@
 {
+	"9o.hist.C:\\Users\\Gavin\\Desktop\\workspace\\Go\\src\\github.com\\gavinong10\\gobyexample":
+	[
+		"go run channels.go",
+		"go build",
+		"go install",
+		"go install channels.go",
+		"help"
+	],
 	"ann": "a16.07.09-1",
 	"install_version": "r16.07.09-1",
 	"version": "r16.07.09-1"

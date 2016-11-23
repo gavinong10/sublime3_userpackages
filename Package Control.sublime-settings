@@ -7,8 +7,10 @@
 	[
 		"Anaconda",
 		"ANSIescape",
+		"Golang Build",
 		"GoSublime",
 		"Package Control",
+		"SublimeGit",
 		"SublimeREPL"
 	]
 }
